@@ -1,0 +1,9 @@
+tiktoken==0.1.1
+prettytable==0.7.2
+tqdm==4.66.4
+requests==2.32.3
+beautifulsoup4==4.12.3
+firecrawl-py==0.0.20
+openai==1.35.10
+pandas==2.2.2
+numpy==2.0.0

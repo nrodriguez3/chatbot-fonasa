@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: tiktoken
+Version: 0.1.1
+Requires-Python: >=3.9
+License-File: LICENSE
+Requires-Dist: blobfile (>=2)
+Requires-Dist: regex (>=2022.1.18)
+

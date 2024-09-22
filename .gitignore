@@ -1,0 +1,6 @@
+venv/
+data/
+.env
+ruff.toml
+Dockerfile
+.DS_Store
