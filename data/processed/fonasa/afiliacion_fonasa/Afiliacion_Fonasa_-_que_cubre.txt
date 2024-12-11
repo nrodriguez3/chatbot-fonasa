@@ -1,0 +1,52 @@
+# Que cubre FONASA?
+
+El Régimen de Salud que administra FONASA, es universal, ya que recibe a todas las personas que lo requieran sin limitaciones de sexo, edad, o condición de salud, y a su vez solidario, pues su financiamiento, en parte proviene de los aportes del 7% de cotización de salud de quienes pueden pagarlo, y en parte por aporte fiscal. En consecuencia, la cotización del 7% para salud no genera una cuenta individual, sino que contribuye a un fondo con cargo al cual se financian las prestaciones que establece el Régimen, de todas las personas adscritas a él, sean o no cotizantes.
+ 
+Ser parte de Fonasa te entrega los beneficios y protección financiera considerados por el Seguro Público de Salud que puedes encontrar aquí: Beneficios Generales
+ 
+# Cobertura y Tramos
+
+Fonasa no excluye a nadie. Incorpora a todas aquellas personas que viven en el territorio nacional, independiente de su edad, sexo, género, nivel de ingresos, número de cargas familiares, enfermedades preexistentes y nacionalidad de origen.
+
+## Características Generales
+- Las personas beneficiarias no pagan extra por carga familiar. Con el 7% de cotización están cubiertos.
+- Desde septiembre de 2022, existe el Copago Cero en la Modalidad de Atención Institucional (Centros de Salud, Consultorios, Postas y Hospitales Públicos)
+- Los tramos B, C y D pueden comprar bonos para atenderse en la Modalidad de Libre Elección en Prestadores en convenio con Fonasa. El valor del bono depende del médico o centro médico elegido, no del tramo.
+- El tramo A sólo puede atenderse en la Modalidad de Atención Institucional.
+
+## Tramos de Beneficiarios (actualizados al 1 de julio de 2024)
+
+### Tramo A
+**Beneficiarios:**
+- Personas carentes de recursos
+- Causantes de subsidio familiar (Ley 18.020)
+
+**Cobertura:**
+- Copago Cero en la Red Pública (MAI)
+- Sin acceso a compra de bonos
+
+### Tramo B
+**Beneficiarios:**
+- Personas con ingreso imponible mensual menor o igual a $500.000
+
+**Cobertura:**
+- Copago Cero en la Red Pública (MAI)
+- Acceso a compra de bonos en establecimientos privados en convenio (MLE)
+
+### Tramo C
+**Beneficiarios:**
+- Personas con ingreso imponible mensual entre $500.001 y $730.000
+- *Nota: Con 3 o más cargas familiares pasa a Tramo B*
+
+**Cobertura:**
+- Copago Cero en la Red Pública (MAI)
+- Acceso a compra de bonos en establecimientos privados en convenio (MLE)
+
+### Tramo D
+**Beneficiarios:**
+- Personas con ingreso imponible mensual mayor a $730.000
+- *Nota: Con 3 o más cargas familiares pasa a Tramo C*
+
+**Cobertura:**
+- Copago Cero en la Red Pública (MAI)
+- Acceso a compra de bonos en establecimientos privados en convenio (MLE)

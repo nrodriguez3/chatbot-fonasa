@@ -1,6 +1,5 @@
 venv/
 myenv/
-data/
 .env
 Dockerfile
 .DS_Store

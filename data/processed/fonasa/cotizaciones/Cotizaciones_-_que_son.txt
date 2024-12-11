@@ -1,0 +1,46 @@
+# En que consiste la cotizacion de FONASA?
+
+La cotización de salud Fonasa es el monto que por Ley se le descuenta a todos los afiliados, ya sean trabajadores dependientes, independientes o que se encuentren pensionados.
+
+La cotización de salud corresponde al 7% de los ingresos imponibles mensuales de cada afiliado. Estas cotizaciones contribuyen, de manera solidaria, junto con los impuestos generales (aporte fiscal) al financiamiento del sistema público de salud.
+
+Fonasa funciona como un Seguro Público de salud, por lo tanto las cotizaciones para Fonasa de cada trabajador sirven como una red de protección para financiar los posibles problemas de salud que pueda presentar cualquier usuario en el sistema público de salud, como por ejemplo financiar los programas médicos, consultas, tratamientos, hospitalizaciones y atenciones médicas.
+
+**¿Qué cubre?**
+
+La cotización cubre el plan general de Fonasa en la red pública y privada en cuanto a consultas médicas, exámenes, procedimientos médicos ambulatorios y hospitalizaciones, rehabilitación, salud mental, salud bucal y exámenes preventivos,  estos últimos, exclusivos de la red pública. Además de otros 6 programas adicionales:
+
+*   Programa AUGE (Garantías Explícitas en Salud)
+*   [Plan General](http://foprdotdgen.fonasa.local:22010/sites/fonasa/beneficiarios/beneficios-generales)
+*   Ley de Urgencias
+*   Ley Ricarte Soto (Diagnósticos y Tratamientos de Alto Costo)
+*   Programa PAD (Pago Asociado a Diagnóstico)
+*   Programas especiales
+*   Otros beneficios (Préstamos Médicos, Condonación de Deudas, Subsidio de Incapacidad Laboral)
+
+**¿Quiénes pueden acceder?**
+
+*   Trabajadores Dependientes. Todos los trabajadores deben realizar su cotización de salud a Fonasa para acceder a sus beneficios; en el caso de los Trabajadores Dependientes la cotización se les descuenta directamente desde su liquidación de sueldo y es enterada a Fonasa por su empleador, a través de ente en convenio (PreviRed).
+*   Pensionados. En el caso de los pensionados es la propia entidad previsional que le otorga la pensión la que entera en Fonasa la cotización que le ha descontado desde su liquidación de pensión.
+*   Trabajadores independientes y a honorarios. Los trabajadores Independientes deben realizar directamente su cotización de salud a Fonasa. Para el caso en que paguen la cotización de salud en conjunto con el fondo de pensión en la entidad respectiva (AFP o IPS), es dicha entidad (AFP o IPS) la que debe enterar esos fondos a Fonasa. Y los trabajadores a Honorarios se rigen por la nueva Ley de Honorarios, si haces boletas por más de 5 sueldos mínimos, un porcentaje de la retención se utilizará para tu cotización de salud. Si realizaste boletas por más del monto indicado, tendrás cobertura de Salud en Fonasa desde julio del año que se realice la Operación Renta hasta junio del año siguiente. Siempre que cotices más de 5 sueldos mínimos al año, tendrás la cobertura de salud durante el siguiente año (julio a junio).
+*   Independientes voluntarios. De igual manera, aquellas personas que trabajan de forma independiente o que no tienen un trabajo fijo y que deseen ser beneficiarios cotizantes de Fonasa, pueden pagar de manera voluntaria su cotización de salud, a través de PreviRed.
+
+**Plazos:**
+
+**Trabajadores Dependientes**:
+
+El plazo para los empleadores, para pago de las cotizaciones de los Trabajadores Dependientes es hasta el día 13 de cada mes, si se hace con pago totalmente electrónico y hasta el día 10 o hábil siguiente si se declaran en forma electrónica y se paga en una entidad bancaria con cupón impreso.
+
+**Trabajadores Independientes**:
+
+Por su parte, el trabajador independiente dispone de las mismas alternativas de pago de las que dispone un empleador en [www.previred.com](http://www.previred.com/), salvo que el plazo de pago se amplía hasta el último día del mes, según la normativa. Es decir, una vez devengadas o recibidas las rentas de un mes en particular, el Trabajador Independiente tiene todo el mes siguiente para pagar dicha cotización. El pago puede ser totalmente electrónico, con transferencia desde cuenta corriente o bien mediante una declaración electrónica en PreviRed y posterior impresión de un cupón que puede pagar en las instituciones bancarias en convenio. En este caso, el plazo de pago del cupón es hasta el día 31.
+
+Alternativas de pago, definiciones de horario y documentación de referencia pueden ser obtenidas directamente desde la página [www.previred.com](http://www.previred.com/).
+
+**Trabajadores Independientes a Honorarios:**
+
+Cada año, en la operación renta, te retendrán parte de la devolución para cubrir tu Seguro de Salud. Esta retención te da derecho a cobertura de salud de julio del año que hagas la Operación Renta a junio del año siguiente.
+
+El año que empieces a hacer boletas, deberás cotizar como independiente, en Previred, hasta que empiece a regir la cobertura de salud (julio del año que realices la operación renta).
+
+Si es que tus boletas no suman más de 5 sueldos mínimos y quieres acceder a la cobertura de Libre Elección, debes cotizar mensualmente como Trabajador Independiente.
