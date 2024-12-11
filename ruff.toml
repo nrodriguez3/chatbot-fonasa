@@ -1,0 +1,66 @@
+# Target Python version
+target-version = "py38"
+
+# Select rules to enable
+select = ["E", "F", "W"]
+
+# Ignore specific rules for this code
+ignore = [
+    "E501",    # Line too long
+    "S101",    # Use of assert detected
+    "S110",    # Try, Except, Pass detected
+    "S112",    # Try, Except, Continue detected
+    "B001",    # Do not use bare except
+    "B008",    # Do not perform function call in argument defaults
+    "PTH103",  # os.makedirs() should be used instead of os.mkdir()
+    "PTH118",  # os.path.join() should be replaced by Path.join()
+    "PTH207",  # Replace os.makedirs() with Path.mkdir()
+    "S113",    # Probable use of requests without timeout
+    "T201",    # Print statement used
+    "BLE001",  # Catch too general exception
+    "TRY002",  # Create your own exception
+    "TRY003",  # Avoid long messages in exceptions
+    "ERA001",  # Found commented-out code
+    "D212",    # Multi-line docstring summary should start at the first line
+    "W293",    # Blank line contains whitespace
+]
+
+# Line length configuration
+line-length = 120
+
+# Exclude directories
+exclude = [
+    ".git",
+    ".ruff_cache",
+    "__pycache__",
+    "build",
+    "dist",
+    "*.pyc",
+    "*.egg-info",
+    "venv",
+    "myenv",
+    ".env",
+    "data"
+]
+
+# Allow autofix for selected rules
+fixable = ["ALL"]
+unfixable = []
+
+# Ignore `E402` (import violations) in all `__init__.py` files
+[per-file-ignores]
+"__init__.py" = ["E402"]
+
+[mccabe]
+max-complexity = 15
+
+[pycodestyle]
+ignore-overlong-task-comments = true
+
+[pydocstyle]
+convention = "google"
+
+[pylint]
+max-args = 6
+max-returns = 4
+allow-print = true
